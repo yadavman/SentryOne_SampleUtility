@@ -1,0 +1,12 @@
+E:\.Net Workspace\Koch\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.exe
+E:\.Net Workspace\Koch\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.deps.json
+E:\.Net Workspace\Koch\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.json
+E:\.Net Workspace\Koch\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.dev.json
+E:\.Net Workspace\Koch\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.dll
+E:\.Net Workspace\Koch\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.pdb
+E:\.Net Workspace\Koch\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfoInputs.cache
+E:\.Net Workspace\Koch\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfo.cs
+E:\.Net Workspace\Koch\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.csproj.CoreCompileInputs.cache
+E:\.Net Workspace\Koch\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.dll
+E:\.Net Workspace\Koch\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.pdb
+E:\.Net Workspace\Koch\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.genruntimeconfig.cache

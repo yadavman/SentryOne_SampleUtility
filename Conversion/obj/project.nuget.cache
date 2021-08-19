@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5BStYF0nrSYNBUtcLq49zVkRnNp1sEzHHtK68y2hmgeCEY1NX9NRaaXAMEmDm4AWrOaXZ45BIef62lMGkzswYQ==",
+  "success": true,
+  "projectFilePath": "E:\\.Net Workspace\\Koch\\Conversion\\Conversion\\Conversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manish\\.nuget\\packages\\opencover\\4.7.1221\\opencover.4.7.1221.nupkg.sha512"
+  ],
+  "logs": []
+}

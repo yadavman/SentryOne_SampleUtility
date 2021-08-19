@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.8541666666666666" branch-rate="0.5833333333333334" lines-covered="82" lines-valid="96" branches-covered="7" branches-valid="12" complexity="30" version="0" timestamp="1629370388">
+  <sources>
+    <source>E:\.Net Workspace\Koch\Conversion\</source>
+    <source>C:\</source>
+  </sources>
+  <packages>
+    <package name="Conversion" line-rate="0.7659574468085106" branch-rate="0.5833333333333334" complexity="17">
+      <classes>
+        <class name="Conversion.CalcInput" filename="E:\.Net Workspace\Koch\Conversion\Conversion\CalcInput.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_operation" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Num1" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Num2" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="2" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="2" branch="false" />
+            <line number="8" hits="2" branch="false" />
+            <line number="10" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="Conversion.ConversionUtility" filename="E:\.Net Workspace\Koch\Conversion\Conversion\ConversionUtility.cs" line-rate="1" branch-rate="0.5" complexity="5">
+          <methods>
+            <method name="ToSafeInt" signature="(...)" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="12" hits="4" branch="false" />
+                <line number="13" hits="4" branch="false" />
+                <line number="16" hits="4" branch="true" condition-coverage="50% (1/2)" />
+                <line number="17" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="ToSafeInt" signature="(...)" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="21" hits="5" branch="false" />
+                <line number="22" hits="5" branch="false" />
+                <line number="24" hits="5" branch="true" condition-coverage="50% (1/2)" />
+                <line number="25" hits="5" branch="false" />
+              </lines>
+            </method>
+            <method name="ToSafeInt" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="29" hits="5" branch="false" />
+                <line number="30" hits="5" branch="false" />
+                <line number="33" hits="5" branch="false" />
+                <line number="34" hits="5" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="4" branch="false" />
+            <line number="13" hits="4" branch="false" />
+            <line number="16" hits="4" branch="true" condition-coverage="50% (1/2)" />
+            <line number="17" hits="4" branch="false" />
+            <line number="21" hits="5" branch="false" />
+            <line number="22" hits="5" branch="false" />
+            <line number="24" hits="5" branch="true" condition-coverage="50% (1/2)" />
+            <line number="25" hits="5" branch="false" />
+            <line number="29" hits="5" branch="false" />
+            <line number="30" hits="5" branch="false" />
+            <line number="33" hits="5" branch="false" />
+            <line number="34" hits="5" branch="false" />
+          </lines>
+        </class>
+        <class name="Conversion.Program" filename="E:\.Net Workspace\Koch\Conversion\Conversion\Program.cs" line-rate="0.7857142857142857" branch-rate="0.5" complexity="3">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="1" branch="false" />
+                <line number="10" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ConvMethod" signature="(...)" line-rate="0.75" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="14" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+                <line number="16" hits="1" branch="true" condition-coverage="50% (1/2)" />
+                <line number="17" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="1" branch="false" />
+            <line number="10" hits="1" branch="false" />
+            <line number="14" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="16" hits="1" branch="true" condition-coverage="50% (1/2)" />
+            <line number="17" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="Conversion.SampleCalc" filename="E:\.Net Workspace\Koch\Conversion\Conversion\SampleCalc.cs" line-rate="0.5555555555555556" branch-rate="0.6666666666666666" complexity="6">
+          <methods>
+            <method name="SampleCalculator" signature="(...)" line-rate="0.5555555555555556" branch-rate="0.6666666666666666" complexity="6">
+              <lines>
+                <line number="10" hits="2" branch="false" />
+                <line number="11" hits="2" branch="false" />
+                <line number="12" hits="2" branch="true" condition-coverage="100% (2/2)" />
+                <line number="13" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+                <line number="16" hits="1" branch="true" condition-coverage="50% (2/4)" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="31" hits="1" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="38" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="2" branch="false" />
+            <line number="11" hits="2" branch="false" />
+            <line number="12" hits="2" branch="true" condition-coverage="100% (2/2)" />
+            <line number="13" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="16" hits="1" branch="true" condition-coverage="50% (2/4)" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="38" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Conversion.Tests" line-rate="0.9387755102040817" branch-rate="1" complexity="13">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="C:\Users\Manish\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Conversion.Tests.ConversionUtilityTests" filename="E:\.Net Workspace\Koch\Conversion\Conversion.Tests\ConversionUtilityTests.cs" line-rate="0.8823529411764706" branch-rate="1" complexity="4">
+          <methods>
+            <method name="CanCallToSafeIntWithInput" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="1" branch="false" />
+                <line number="12" hits="1" branch="false" />
+                <line number="13" hits="1" branch="false" />
+                <line number="14" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CannotCallToSafeIntWithInputWithInvalidInput" signature="(...)" line-rate="0.6666666666666666" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="3" branch="false" />
+                <line number="23" hits="6" branch="false" />
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="CanCallToSafeIntWithInputAndDefaultValue" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
+                <line number="31" hits="1" branch="false" />
+                <line number="32" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CannotCallToSafeIntWithInputAndDefaultValueWithInvalidInput" signature="(...)" line-rate="0.6666666666666666" branch-rate="1" complexity="1">
+              <lines>
+                <line number="40" hits="3" branch="false" />
+                <line number="41" hits="6" branch="false" />
+                <line number="42" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="1" branch="false" />
+            <line number="12" hits="1" branch="false" />
+            <line number="13" hits="1" branch="false" />
+            <line number="14" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="22" hits="3" branch="false" />
+            <line number="23" hits="6" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="40" hits="3" branch="false" />
+            <line number="41" hits="6" branch="false" />
+            <line number="42" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Conversion.Tests.ProgramTests" filename="E:\.Net Workspace\Koch\Conversion\Conversion.Tests\ProgramTests.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="CanConstruct" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="21" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CanCallMain" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CanCallConvMethod" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="39" hits="1" branch="false" />
+                <line number="40" hits="1" branch="false" />
+                <line number="41" hits="1" branch="false" />
+                <line number="43" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="3" branch="false" />
+                <line number="12" hits="3" branch="false" />
+                <line number="13" hits="3" branch="false" />
+                <line number="14" hits="3" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="3" branch="false" />
+            <line number="12" hits="3" branch="false" />
+            <line number="13" hits="3" branch="false" />
+            <line number="14" hits="3" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="39" hits="1" branch="false" />
+            <line number="40" hits="1" branch="false" />
+            <line number="41" hits="1" branch="false" />
+            <line number="43" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="Conversion.Tests.SampleCalcTests" filename="E:\.Net Workspace\Koch\Conversion\Conversion.Tests\SampleCalcTests.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="CanConstruct" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="21" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CanCallSampleCalculator" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CannotCallSampleCalculatorWithNullInput" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="33" hits="1" branch="false" />
+                <line number="34" hits="2" branch="false" />
+                <line number="35" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="3" branch="false" />
+                <line number="12" hits="3" branch="false" />
+                <line number="13" hits="3" branch="false" />
+                <line number="14" hits="3" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="3" branch="false" />
+            <line number="12" hits="3" branch="false" />
+            <line number="13" hits="3" branch="false" />
+            <line number="14" hits="3" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="34" hits="2" branch="false" />
+            <line number="35" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

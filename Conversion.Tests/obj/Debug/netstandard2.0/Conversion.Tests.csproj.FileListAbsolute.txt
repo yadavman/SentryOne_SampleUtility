@@ -1,0 +1,4 @@
+E:\.Net Workspace\Koch\Conversion\Conversion.Tests\obj\Debug\netstandard2.0\Conversion.Tests.csproj.AssemblyReference.cache
+E:\.Net Workspace\Koch\Conversion\Conversion.Tests\obj\Debug\netstandard2.0\Conversion.Tests.AssemblyInfoInputs.cache
+E:\.Net Workspace\Koch\Conversion\Conversion.Tests\obj\Debug\netstandard2.0\Conversion.Tests.AssemblyInfo.cs
+E:\.Net Workspace\Koch\Conversion\Conversion.Tests\obj\Debug\netstandard2.0\Conversion.Tests.csproj.CoreCompileInputs.cache
